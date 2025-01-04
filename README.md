@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm BHAVESH MEHRA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Data Engineer with new and innovative ideas</h3>
 
-- 🔭 I’m currently working on **a clone website**
 
 - 🌱 I’m currently learning **DSA**
 
